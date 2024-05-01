@@ -5,7 +5,7 @@ from keras.models import load_model
 import streamlit as st
 import matplotlib.pyplot as plt
 
-model = load_model("C:\\Users\\hp\Downloads\\finalProject\\Bitcoin Prediction Model.keras")
+model = load_model("Bitcoin Prediction Model.keras")
 
 st.header('Bitcoin Price Predictor')
 
