@@ -3,5 +3,4 @@ pandas
 yfinance
 streamlit
 matplotlib
-matplotlib.pyplot
 tensorflow
